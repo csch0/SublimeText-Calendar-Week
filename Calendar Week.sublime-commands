@@ -1,0 +1,6 @@
+[
+	{ 
+		"caption": "Calendar Week", 
+		"command": "calendar_week"
+	}
+]
