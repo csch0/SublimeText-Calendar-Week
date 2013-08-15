@@ -6,7 +6,7 @@ Usage
 
 A message dialog will display the current week and the first and last day of the week.
 
-![Calendar Week](http://latexing.com/wp-content/uploads/github/calendar-week.jpg)
+![Calendar Week](http://github,latexing.com/calendar_week.jpg)
 
 Installation
 ------------
